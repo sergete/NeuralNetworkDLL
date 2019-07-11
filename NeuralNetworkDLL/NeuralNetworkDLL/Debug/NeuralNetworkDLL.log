@@ -1,0 +1,4 @@
+﻿  NeuralNetworkDLL.cpp
+c:\users\sergio\desktop\neuralnetworkdll\neuralnetworkdll\neuralnetworkdll.cpp(74): warning C4715: 'getOutputLayerSize': not all control paths return a value
+c:\users\sergio\desktop\neuralnetworkdll\neuralnetworkdll\neuralnetworkdll.cpp(83): warning C4715: 'getInputLayerSize': not all control paths return a value
+  NeuralNetworkDLL.vcxproj -> C:\Users\Sergio\Desktop\NeuralNetworkDLL\Debug\NeuralNetworkDLL.dll
